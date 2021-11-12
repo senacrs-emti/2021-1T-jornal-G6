@@ -1,0 +1,75 @@
+header{
+    background-color: #008399;
+    width: 100%;
+    height: 90px;
+    margin-bottom: 80px;
+}
+footer{
+    margin-top: 80px;
+}
+.navbar{
+    padding-top: 30px;
+    
+}
+.col-sm form{
+    margin-left: 50px;
+}
+#senacnews{
+    color: white;
+}
+.col{
+    margin-top: 5px;
+    font-weight: bold;
+}
+a:link, a:visited, a:active{
+    text-decoration: none;
+	color:#000;
+}
+
+#titulo{
+    margin-left: 43px;
+    margin-top: 5px;
+}
+.card{
+    margin-left: 45px;
+    margin-bottom: 45px;
+}
+#container1{
+    margin-left: 0px;
+}
+#menubarra{
+    margin-top: 25px;
+}
+p{
+    margin-top: 20px;
+}
+@media only screen and (max-width: 600px) {
+    .col h1{
+        font-size: large;
+        margin-top: 30px;
+    }
+    footer{
+        margin-top: 200px;
+    }
+    header{
+        margin-bottom: 200px;
+    }
+  }
+@media only screen and (min-width: 700px) {
+    .col h1{
+        margin-top: 20px;
+        margin-left: 23px;
+    }
+    footer{
+        margin-top: 200px;
+    }
+    header{
+        margin-bottom: 200px;
+    }
+}
+#video-renata{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
