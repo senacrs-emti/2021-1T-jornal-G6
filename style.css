@@ -50,14 +50,14 @@ p{
     footer{
         margin-top: 200px;
     }
-    header{
-        margin-bottom: 200px;
-    }
   }
 @media only screen and (min-width: 700px) {
     .col h1{
         margin-top: 20px;
         margin-left: 23px;
+    }
+    .foot {
+        margin-top: 20px;
     }
 }
 #video-renata{
