@@ -7,6 +7,10 @@ main{
     margin-top: 50px;
     margin-bottom: 50px;
 }
+.dropdown{
+    margin-left: 120px;
+    margin-top: 5px;
+}
 .navbar{
     padding-top: 30px;
 }
