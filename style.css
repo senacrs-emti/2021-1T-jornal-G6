@@ -7,6 +7,11 @@ main{
     margin-top: 50px;
     margin-bottom: 50px;
 }
+.dropdown{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 menu{
     background-color: #e6710f;
     width: 100%;
@@ -73,9 +78,6 @@ p{
     }
     menu{
         height: 45px;
-    }
-    #minu {
-        margin-left: 223px;
     }
 }
 #video-renata{
