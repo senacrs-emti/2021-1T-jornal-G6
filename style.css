@@ -8,11 +8,12 @@ main{
     margin-bottom: 50px;
 }
 .dropdown{
-    display: block;
+    display: non;
     margin-left: auto;
     margin-right: auto;
 }
 menu{
+    display: block;
     background-color: #e6710f;
     width: 100%;
     margin-top: 0px;
@@ -55,7 +56,22 @@ a:link, a:visited, a:active{
 p{
     margin-top: 20px;
 }
+footer{
+    height: 150px;
+}
+#i{
+    margin-bottom: 40px;
+}
+#mud{
+    display: block;
+}
 @media only screen and (max-width: 600px) {
+    menu{
+        display: none;
+    }
+    #mud{
+        display: none;
+    }
     .col h1{
         font-size: large;
         margin-top: 30px;
